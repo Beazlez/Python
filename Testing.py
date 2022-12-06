@@ -1,13 +1,15 @@
+# Network Chuck's Ep1 of Learning Python
 #print("""This is a test
- #   I am Testing
-  #  Wow, a lot of Testing""")
+#I am Testing
+#Wow, a lot of Testing""")
 
 # Using Triple Quotes will Allow me to have the Print Function on Multiple Lines (See in Action on Code lines 1-3)
-#If I type in \n that will put text on a new line (See in Action on Code lines 12&17)
+# If I type in \n that will put text on a new line (See in Action on Code lines 12&17)
 
-#Anything Between Quotes is a String
+# Anything Between Quotes is a String
 
-#This is a little Food Server Bot Thing I Made // I was messing around with Inputs and Variables
+# Network Chuck's Ep2 of Learning Python
+# This is a little Food Server Bot Thing I Made // I was messing around with Inputs and Variables
   #print("Hello, Welcome to my Store!")
 
   #name = input("What is your name?\n")
@@ -20,8 +22,15 @@
 
 #Following Along with NetChuck's Ep 3 of Python // Messing around with Numbers Now
 #The Number Alone is an Integer // If I put Quotes around it, the number becomes a String
-#Name Variable = String // Age Variable = Integer // Acutal_Age Variable = Floating Point Number AKA Float
-name = ("Beaz")
-age = 23
-actual_age = 23.56
-print(type(actual_age))
+#Name Name Variable = String // Age Variable = Integer // Acutal_Age Variable = Floating Point Number AKA Float (Float = Decimal Number)
+# + = Add // - = Subtract // * = Multiply // / = Divide // ** = Exponent
+  #age = 23
+  #actual_age = 23.58
+    #math = 23 * -9 / 2 + 43 * 3 
+    #results = age + actual_age + math
+    #print(results)
+    
+      #Upgrades to Our Food Server Bot
+#Task 1 = Create a Variable Named Price and Assign it an Integer // Everything is Same Price @ $10
+#Task 2 = Have the Food Server Ask how Many of What Item they want and Have him Remember how many You Ordered
+#Task 3 = Have the Food Server Give you the Total Cost of the Things you Ordered
